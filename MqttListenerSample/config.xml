@@ -1,0 +1,5 @@
+<config>
+	<broker_address>192.168.10.182</broker_address>
+	<broker_port>1883</broker_port>
+	<topic>MyTopic</topic>
+</config>
