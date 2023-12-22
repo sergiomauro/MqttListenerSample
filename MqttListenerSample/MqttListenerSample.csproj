@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="config.xml" />
+    <None Include="Documentation.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
