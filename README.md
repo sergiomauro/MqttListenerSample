@@ -1,4 +1,4 @@
-﻿# MQTT Listener Documentation
+﻿# MQTTListenerSample
 
 This project is a simple MQTT listener that allows you to subscribe to a specific topic on a broker and receive MQTT messages. The program is written in C# and consists of two classes: `Program` and `MqttListener`.
 
